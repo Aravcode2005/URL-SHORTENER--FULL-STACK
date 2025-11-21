@@ -1,0 +1,24 @@
+{
+  "name": "url-shortener--full-stack",
+  "version": "1.0.0",
+  "description": "Fullstack-project",
+  "homepage": "https://github.com/Aravcode2005/URL-SHORTENER--FULL-STACK#readme",
+  "bugs": {
+    "url": "https://github.com/Aravcode2005/URL-SHORTENER--FULL-STACK/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aravcode2005/URL-SHORTENER--FULL-STACK.git"
+  },
+  "license": "ISC",
+  "author": "Arav Gupta",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
