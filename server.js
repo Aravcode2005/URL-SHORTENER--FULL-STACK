@@ -1,4 +1,6 @@
-const http=require('index');
-http.createServer((req,res)=>{
+const http=require('http');
+const server=http.createServer((req,res)=>{
 console.log(req);
 });
+
+server.listen(3000);

@@ -1,0 +1,22 @@
+body{
+background-color: aqua;
+}
+
+.results{
+background-color: red;
+flex-direction: row-reverse;
+}
+
+#button[type="submit"]{
+border-radius: 40px;
+height: fit-content;
+width: fit-content;
+background-color: black;
+color: yellowgreen;
+}
+#urlShortener{
+width: 80px;
+height: 40px;
+background-color: aqua;
+
+}
